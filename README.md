@@ -11,9 +11,10 @@
 	<kbd align="left">
 		<kbd>Front-end</kbd>
 		<br><br>
+        <span>
 		<a href="https://reactjs.org/"><img height="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /></a>
 		<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img height="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /></a>
-	</kbd>
+        </span>
 	<kbd>
 		<kbd>Back-end</kbd>
 		<br><br>
