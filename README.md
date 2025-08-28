@@ -7,7 +7,7 @@
 <kbd>I'm a Fullstack developer working with Android, Node.js, React, and JavaScript.</kbd>
 
 <div>
-	<h3 align="Ce">🛠 Tech Stack</h3>
+	<h3 align="left">🛠 Tech Stack</h3>
 	<kbd align="left">
 		<kbd>Front-end</kbd>
 		<br><br>
